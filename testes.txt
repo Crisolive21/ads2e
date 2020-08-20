@@ -1,0 +1,1 @@
+Realização de testes funcional e de performance para avaliar entrada, saída, qualidade e rapidez das interações do usuário – servidor. 

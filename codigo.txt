@@ -1,0 +1,1 @@
+Para o desenvolvimento do aplicativo utilizaremos a IDE Visual Studio Code tendo um único código escrito em HTML, CSS e JavaScript para o aproveitamento em todas as plataformas.
